@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "AC_DC")(type "KiCad")(uri "/home/carlos/Documents/Code/Kicad/Library/Footprints/Converter_ACDC.pretty")(options "")(descr ""))
+  (lib (name "Fuses")(type "KiCad")(uri "/home/carlos/Documents/Code/Kicad/Library/Footprints/Fuse.pretty")(options "")(descr ""))
+)

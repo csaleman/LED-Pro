@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "LED_Pro-rescue")(type "Legacy")(uri "${KIPRJMOD}/LED_Pro-rescue.lib")(options "")(descr ""))
+  (lib (name "AC_DC")(type "Legacy")(uri "/home/carlos/Documents/Code/Kicad/Library/Symbols/Converter_ACDC/Converter_ACDC.lib")(options "")(descr ""))
+)
